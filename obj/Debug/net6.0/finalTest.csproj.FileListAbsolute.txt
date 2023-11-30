@@ -1,0 +1,15 @@
+D:\Обучение\C#\finalTest\finalTest\bin\Debug\net6.0\finalTest.exe
+D:\Обучение\C#\finalTest\finalTest\bin\Debug\net6.0\finalTest.deps.json
+D:\Обучение\C#\finalTest\finalTest\bin\Debug\net6.0\finalTest.runtimeconfig.json
+D:\Обучение\C#\finalTest\finalTest\bin\Debug\net6.0\finalTest.dll
+D:\Обучение\C#\finalTest\finalTest\bin\Debug\net6.0\finalTest.pdb
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.csproj.AssemblyReference.cache
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.AssemblyInfoInputs.cache
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.AssemblyInfo.cs
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.csproj.CoreCompileInputs.cache
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.dll
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\refint\finalTest.dll
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.pdb
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\finalTest.genruntimeconfig.cache
+D:\Обучение\C#\finalTest\finalTest\obj\Debug\net6.0\ref\finalTest.dll
